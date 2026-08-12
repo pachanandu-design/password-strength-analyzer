@@ -21,13 +21,15 @@ The application then displays the password strength based on the score.
 ## ✨ Features
 
 - 🔐 Password strength analysis
-- 📊 Strength score out of 5
-- ✓ Password requirement checking
-- 🔑 Strong password generator
-- 👁 Show/Hide password
-- 🖥 Simple graphical user interface
+- 📊 Score-based strength evaluation
+- 🔤 Checks uppercase and lowercase letters
+- 🔢 Checks numbers
+- 🔣 Checks special characters
+- 📏 Checks minimum password length
+- 🎲 Generates strong passwords
+- 🖥️ Simple graphical user interface using Tkinter
 
-## 🛠 Technologies Used
+## 🛠️ Technologies Used
 
 - Python
 - Tkinter
@@ -36,51 +38,52 @@ The application then displays the password strength based on the score.
 
 ## ⚙️ How It Works
 
-```text
-Enter Password
-      ↓
-Analyze Password
-      ↓
-Check Security Requirements
-      ↓
-Calculate Score
-      ↓
-Determine Strength
-      ↓
-Display Result
+Enter Password → Analyze Password → Check Requirements → Calculate Score → Determine Strength → Display Result
 
+## 📸 Screenshots
 
+### Screenshot 1
 
+![Screenshot 1](Screenshot%20%28102%29.png)
 
-📸 Screenshots
+### Screenshot 2
 
-Screenshot 1
+![Screenshot 2](Screenshot%20%28103%29.png)
 
-<img width="1920" height="1080" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/8a60bdff-4c54-45ae-aeb9-af1b43ae3e64" />
+### Screenshot 3
 
-Screenshot 2
-<img width="1920" height="1080" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/24bf26b4-01c3-472e-a3e3-96e4ecaa84c7" />
+![Screenshot 3](Screenshot%20%28105%29.png)
 
-Screenshot 3
-<img width="1920" height="1080" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/da3a36f8-892c-47cb-9d9a-5bad4f47b1fd" />
+### Screenshot 4
 
-Screenshot 4
-<img width="1920" height="1080" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/8067d15f-c244-4bf5-8397-7a235f9dc752" />
+![Screenshot 4](Screenshot%20%28108%29.png)
 
-▶️ How to Run
-Step 1: Install Python
+## ▶️ How to Run
+
+### Step 1: Install Python
 
 Download Python from:
 
 https://www.python.org/downloads/
 
-Step 2: Download or Clone this Repository
-git clone https://github.com/pachanandu-design/password-strength-analyzer.git
-Step 3: Run the Program
-python password_analyzer_final.py
+### Step 2: Clone the Repository
 
- 👩‍💻 Author
+Use:
+
+`git clone https://github.com/pachanandu-design/password-strength-analyzer.git`
+
+### Step 3: Run the Program
+
+Use:
+
+`python password_analyzer_final.py`
+
+## 👩‍💻 Author
 
 Pacha Nandini
+**pachanandu-design**
 
-GitHub: https://github.com/pachanandu-design
+
+- Python Documentation: https://docs.python.org/3/
+- Tkinter Documentation: https://docs.python.org/3/library/tkinter.html
+- OWASP Authentication Cheat Sheet: https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html
