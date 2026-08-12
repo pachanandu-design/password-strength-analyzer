@@ -51,16 +51,16 @@ Display Result
 
 📸 Screenshots
 
-Main Application
+Screenshot 1
 <img width="1920" height="1080" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/3aad20e5-d978-4624-a364-c555e7e329d4" />
 
-Weak Password
+Screenshot 2
 <img width="1920" height="1080" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/24bf26b4-01c3-472e-a3e3-96e4ecaa84c7" />
 
-Strong Password
+Screenshot 3
 <img width="1920" height="1080" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/da3a36f8-892c-47cb-9d9a-5bad4f47b1fd" />
 
-Generated Password
+Screenshot 4
 <img width="1920" height="1080" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/8067d15f-c244-4bf5-8397-7a235f9dc752" />
 
 ▶️ How to Run
