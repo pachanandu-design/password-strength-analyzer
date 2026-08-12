@@ -49,6 +49,7 @@ Determine Strength
       ↓
 Display Result
 
+
 📸 Screenshots
 
 Screenshot 1
