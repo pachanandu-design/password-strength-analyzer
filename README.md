@@ -50,12 +50,14 @@ Determine Strength
 Display Result
 
 
+
+
 📸 Screenshots
 
 Screenshot 1
-<img width="1920" height="1080" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/3aad20e5-d978-4624-a364-c555e7e329d4" />
 
-Screenshot 2
+<img width="1920" height="1080" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/8a60bdff-4c54-45ae-aeb9-af1b43ae3e64" />
+
 <img width="1920" height="1080" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/24bf26b4-01c3-472e-a3e3-96e4ecaa84c7" />
 
 Screenshot 3
