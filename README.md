@@ -81,9 +81,8 @@ Use:
 ## 👩‍💻 Author
 
 Pacha Nandini
+
 **pachanandu-design**
 
 
-- Python Documentation: https://docs.python.org/3/
-- Tkinter Documentation: https://docs.python.org/3/library/tkinter.html
-- OWASP Authentication Cheat Sheet: https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html
+
